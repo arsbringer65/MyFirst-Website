@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: wheat;
+}
+
+body {
+  background-color: black;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* flex-direction: column; */
+}
+
+.content h1 {
+  /* background-color: blueviolet; */
+  padding: 10px;
+  /* border: 10px; */
+}
+
+fieldset {
+  border: 20px;
+  margin: 10px;
+  padding: 20px;
+  background: rgb(211, 50, 50);
+}
+.otherinfo h3 {
+  opacity: 1;
+}
+
+legend {
+  background: rgb(126, 14, 14);
+  color: wheat;
+  padding: 20px;
+}
+
+li {
+  list-style: none;
+}
+
+.works {
+  /* padding: 10px; */
+  position: relative;
+}
+.otherinfo {
+  position: relative;
+}
+
+.works p {
+  padding: 10px;
+}
